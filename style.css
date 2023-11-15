@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    width:80%;
+    margin: auto;
+    
+}
+img{
+    width: 100%;
+}
+.left-header{
+    width: 35%;
+    float: left;
+    
+}
+.left-header h1{
+    font-size: 28px;
+}
+.left-header h1 span{
+    color: orange;
+}
+.right-header{
+    width: 35%;
+    float: left;
+    margin-left: 323px;
+}
